@@ -1,6 +1,7 @@
 ### hello world 👋
 
 Sou a Renatha Loiza Monteiro E Silva, sou estudante de analise e desenvolvimento de sistemas pela UNIP.
+
 ##Tecnologias que estou aprendendo.
 
 Realizei curso de programador de sistemas na SENAC, lingagens aprendida **C#,.net 8,SOLID,APIs,DDD, DAPPER,SQL,CRUD,CSS,JavaScrip e HTML**.
