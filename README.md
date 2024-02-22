@@ -1,7 +1,7 @@
 ### hello world 👋
 
 Sou a Renatha Loiza Monteiro E Silva 😊, sou estudante de analise e desenvolvimento de sistemas pela UNIP.
-Realizei curso de programador de sistemas na SENAC aprendi algumas linguagens e estou em busca de aperfeiçoamento.
+Realizei curso de programador de sistemas no SENAC aprendi algumas linguagens e estou em busca de aperfeiçoamento.
 
 ## Tecnologias que estou aprendendo.
 
@@ -11,7 +11,7 @@ Realizei curso de programador de sistemas na SENAC aprendi algumas linguagens e 
 * APIs
 * DDD
 * DAPPER 
-* SQL  
+* SQL Server 
 * CRUD  
 * CSS  (linguagen de marcação)
 * JavaScrip  
@@ -19,7 +19,7 @@ Realizei curso de programador de sistemas na SENAC aprendi algumas linguagens e 
 * Markdown(linguagem de marcação)
 * GitHub
 * Git e Git Bash
-* Metodoligias Ágeis
+* Metodologias Ágeis
 * Scrum
   
 
