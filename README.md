@@ -9,8 +9,6 @@ Realizei curso de programador de sistemas no SENAC aprendi algumas linguagens e 
 * .Net 8
 * SOLID 
 * APIs
-* DDD
-* DAPPER 
 * SQL Server 
 * CRUD  
 * CSS  (linguagen de marcação)
