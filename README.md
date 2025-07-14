@@ -3,6 +3,13 @@
 Sou a Renatha Loiza Monteiro E Silva 😊, sou estudante de analise e desenvolvimento de sistemas pela UNIP.
 Realizei curso de programador de sistemas no SENAC aprendi algumas linguagens e estou em busca de aperfeiçoamento.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RenathaLoiza/RenathaLoiza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RenathaLoiza/RenathaLoiza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RenathaLoiza/RenathaLoiza/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 ## Tecnologias que estou aprendendo.
 
 * C# 
