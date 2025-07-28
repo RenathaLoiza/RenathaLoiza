@@ -1,6 +1,15 @@
 <h1 align="center">Olá, eu sou a Renatha 👩‍💻</h1>
 <h3 align="center">Desenvolvedora de Inteligência Artificial em formação | Python | LangChain | IA Generativa</h3>
+---
+---
 
+## 🎮 Minhas Contribuições (Pac-Man)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/RenathaLoiza/RenathaLoiza/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" />
+</div>
+
+---
 ---
 
 ## 🚀 Sobre mim
