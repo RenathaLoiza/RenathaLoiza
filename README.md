@@ -1,13 +1,8 @@
 ### hello world 👋
 
-Sou a Renatha Loiza Monteiro E Silva 😊, sou estudante de analise e desenvolvimento de sistemas pela UNIP.
-Realizei curso de programador de sistemas no SENAC aprendi algumas linguagens e estou em busca de aperfeiçoamento.
+Sou a Renatha Loiza Monteiro E Silva 😊, sou estudante de Ciência da computação
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RenathaLoiza/RenathaLoiza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RenathaLoiza/RenathaLoiza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RenathaLoiza/RenathaLoiza/output/pacman-contribution-graph.svg">
-</picture>
+
 
 ###
 
@@ -40,46 +35,26 @@ Realizei curso de programador de sistemas no SENAC aprendi algumas linguagens e 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
 </div>
 
-###
+# 👩‍💻 Renatha Loiza - Desenvolvedora de IA
 
-###
-## Tecnologias que estou aprendendo.
+🎯 Em transição de carreira para tecnologia, com foco em aplicações práticas de Inteligência Artificial Generativa.  
+🚀 Estudante ativa da [Escola da Inteligência Artificial](https://www.eia.ai), aplicando LangChain, CrewAI e FastAPI em projetos reais.
 
-* C# 
-* .Net 8
-* SOLID 
-* APIs
-* SQL Server 
-* CRUD  
-* CSS  (linguagen de marcação)
-* JavaScrip  
-* HTML (linguagem de marcação)
-* Markdown(linguagem de marcação)
-* GitHub
-* Git e Git Bash
-* Metodologias Ágeis
-* Scrum
-  
+## 💼 Tecnologias que utilizo:
+- Python, Flask, FastAPI  
+- LangChain, LangGraph, CrewAI  
+- OpenAI, Prompt Engineering  
+- HTML, CSS, JavaScript (nível básico)
 
-acesse sua documentação [Guia básico de markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open).
-ou perquise no google pelo link <https://google.com?q=markdown>
+## 📂 Meus Projetos:
+| Nome | Tecnologias | Descrição |
+|------|-------------|-----------|
+| `chat-rag-fapesp` | LangChain, Chroma, Flask | Chatbot com RAG baseado em documentos reais da FAPESP |
+| `prompt-lab` | Python, OpenAI | Laboratório de engenharia de prompts para ChatGPT |
+| `ia-autonoma-fiscal` | CrewAI, LangGraph | Agente autônomo que analisa dados e gera recomendações fiscais |
 
+## 🌱 Atualmente aprendendo:
+- Agentes multi-etapas com LangGraph  
+- Aplicações de LLMs com RAG + memória  
+- Deploy com Streamlit e Vercel
 
-
-
-
-
-<!--
-**RenathaLoiza/RenathaLoiza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
